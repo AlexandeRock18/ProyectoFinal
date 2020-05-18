@@ -541,7 +541,7 @@ body.hero-anime #switch{
     border-radius: 3px;
     background-position: center center;
     background-size: cover;
-    background-image: url('../img/Bogota-Tennis-Club-Campestre-Icono.svg');
+    background-image: url('../img/Fanzine-icono.svg');
     box-shadow: 0 0 0 2px rgba(12,12,12,.1);
     transition: opacity .2s, border-radius .2s, box-shadow .2s;
     transition-timing-function: ease-out;
